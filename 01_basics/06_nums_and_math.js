@@ -15,7 +15,7 @@ const hundreds=100000
 console.log(hundreds.toLocaleString('en-IN'));// gies comma according to indian standard
 
 // +++++++++++++++++++++++ Maths +++++++++++++++++++++++
-console.log(Math);
+console.log(Math);// this shows Math is a Object
 console.log(Math.abs(-4));// gives absolute value
 console.log(Math.round(4.57856));// rounds of the number
 console.log(Math.ceil(4.2));// int ceil method the top value is choosed
